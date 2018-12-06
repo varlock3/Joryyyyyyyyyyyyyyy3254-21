@@ -1,6 +1,6 @@
-token=NTEyMjMzMDEyNDgyODAxNjc0.Ds2dug.wB4s5OIhket0YEKOCXxZOMazCFk
-owner=510535040329973790
-prefix=R
-game=Tybe Rhelp
+token=NTIwMjQyMDExODUzMjkxNTIw.DurA1w.Ayym4hHRYzd1dvpYFmymNcb5tZk
+owner=324416651363745802
+prefix=J
+game=Tybe Jhelp
 stayinchannel=true
 songinstatus=false
